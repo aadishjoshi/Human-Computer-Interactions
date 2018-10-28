@@ -1,0 +1,10 @@
+C:\Users\aadis\source\repos\Asg2-asj170430\Asg2-asj170430\bin\Debug\Asg2-asj170430.exe.config
+C:\Users\aadis\source\repos\Asg2-asj170430\Asg2-asj170430\bin\Debug\Asg2-asj170430.exe
+C:\Users\aadis\source\repos\Asg2-asj170430\Asg2-asj170430\bin\Debug\Asg2-asj170430.pdb
+C:\Users\aadis\source\repos\Asg2-asj170430\Asg2-asj170430\obj\Debug\Asg2-asj170430.csprojAssemblyReference.cache
+C:\Users\aadis\source\repos\Asg2-asj170430\Asg2-asj170430\obj\Debug\Asg2_asj170430.Form1.resources
+C:\Users\aadis\source\repos\Asg2-asj170430\Asg2-asj170430\obj\Debug\Asg2_asj170430.Properties.Resources.resources
+C:\Users\aadis\source\repos\Asg2-asj170430\Asg2-asj170430\obj\Debug\Asg2-asj170430.csproj.GenerateResource.cache
+C:\Users\aadis\source\repos\Asg2-asj170430\Asg2-asj170430\obj\Debug\Asg2-asj170430.csproj.CoreCompileInputs.cache
+C:\Users\aadis\source\repos\Asg2-asj170430\Asg2-asj170430\obj\Debug\Asg2-asj170430.exe
+C:\Users\aadis\source\repos\Asg2-asj170430\Asg2-asj170430\obj\Debug\Asg2-asj170430.pdb
