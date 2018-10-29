@@ -1,0 +1,10 @@
+Aaa1	M	Bbb1	1112223333	abc@utdallas.edu	add1	add2	dallas	tx	75252	M	YES	01:06:48		01:06:47.2840625	0
+Aaa2	m	Bbb2	1112223334	abc@utdallas.edu	add1	add2	Dallas	TX	75252	M	NO	01:07:23		01:07:21.0210775	4
+Aaa3	m	Bbb3	1112223335	abc@utdallas.edu	add1	add2	dallas	tx	75252	M	YES	01:07:52		01:07:50.7010478	4
+Aaa4	N	Bbb4	1112223336	abc@utdallas.edu	add1	add2	Dallas	TX	75252	M	NO	01:08:25		01:08:24.5894743	8
+Aaa5	B	Bbb5	1112223337	abc@utdallas.edu	add1	add2	dallas	rx	75252	F	YES	01:08:59		01:08:58.9108780	9
+Aaa6	M	Bbb6	1112223338	abc@utdallas.edy	add1	add2	dallas	TX	75252	F	YES	01:09:32		01:09:30.2530703	9
+Aaa7	M	Bbb7	1112223339	abc@utdallas.edu	add1	add2	dallas	TZ	75252	F	YES	01:10:05		01:10:04.7893245	10
+Aaa8	m	Bbb8	1112223310	abc@utdallas.edy	ab1	add2	dallas	tx	75252	M	YES	01:10:39		01:10:38.6854987	13
+Aaa9	M	Bbb9	1112223311	add@utdallas.edy	add1	add2	dallas	tx	75252	M	YES	01:11:45		01:11:44.2294227	21
+Aaa10	M	Bbb10	1112223312	abc@utdallas.edu	add1	add2	dallas	tx	75252	M	YES	01:12:15		01:12:14.2135741	21

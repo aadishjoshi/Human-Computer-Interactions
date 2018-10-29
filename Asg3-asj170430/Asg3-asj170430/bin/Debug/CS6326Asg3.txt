@@ -1,0 +1,25 @@
+The Number of records : 10
+
+ 
+Minimum Entry Time: 00:00
+
+ 
+Maximum Entry Time: 00:01
+
+ 
+Average Entry Time: 00:00
+
+ 
+Minimum Between Time: 00:27
+
+ 
+Maximum Between Time: 01:05
+
+ 
+Average Between Time: 00:35
+
+ 
+Total Time: 05:27
+
+ 
+Total backspaces Count: 21
